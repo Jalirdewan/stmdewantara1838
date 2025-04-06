@@ -1,0 +1,81 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STM DEWANTARA 1838</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #222;
+    }
+    header {
+      background-color: #0b3d91;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    .container {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    .photo {
+      margin-bottom: 3rem;
+    }
+    .photo img, video {
+      width: 100%;
+      border-radius: 1rem;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .caption {
+      margin-top: 1rem;
+      font-style: italic;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      padding: 1rem;
+      background-color: #0b3d91;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>STM DEWANTARA 1838</h1>
+    <p>SMK DEWANTARA 1 CIKARANG UTARA - ANGKATAN 2026</p>
+    <p style="margin-top:1rem;">WEBSITE INI DI BUAT UNTUK MENGENANG NGENANG INDAHNYA BERSERAGAM DI SMK DEWANTARA 1 CIKARANG UTARA</p>
+  </header>  <div class="container">
+    <div class="photo">
+      <img src="file-SGAi2hs6YeUeV4oFmoHDbK" alt="Foto Anak Basis Malam">
+      <div class="caption">
+        Rata-rata anak Basis di sekolah itu dipandang negatif oleh sebagian guru karena ulah di luar sekolah. Tapi sebenarnya, anak Basis itu justru lebih peduli terhadap temannya sendiri. Masih saling sapa di jalan, masih sering kumpul sekadar lepas rindu. Mereka tahu cara menghargai momen, dan mengabadikannya jadi kenangan yang gak akan hilang...<br><br>
+        “Dewantara itu seperti belati. Kalau gak dirawat, pasti tumpul dan berkarat.”
+      </div>
+    </div><div class="photo">
+  <img src="file-DyLmU8Qe2CN6ETEGnM4Pbh" alt="Foto Hari Guru">
+  <div class="caption">
+    INI PAS KITA MERAYAKAN HARI GURU ANGKATAN 2025-2026<br>
+    “Murid nakal juga tau caranya berterima kasih. Dari kami yang kalian sebut nakal.”
+  </div>
+</div>
+
+<div class="photo">
+  <video controls>
+    <source src="file-NTeGjUHFtk871AHsWBV43a" type="video/mp4">
+    Browser kamu tidak mendukung pemutar video.
+  </video>
+  <div class="caption">
+    Ngancurin orang sombong dari Cikarang Selatan & Cikarang Pusat<br>
+    “Sorry udah bikin gabisa jalan.”
+  </div>
+</div>
+
+  </div>  <footer>
+    © 2026 Angkatan STM DEWANTARA 1838
+  </footer>
+</body>
+</html>
